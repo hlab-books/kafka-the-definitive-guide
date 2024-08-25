@@ -14,7 +14,7 @@
 # 2. 도커 컴포즈로 카프카 실행
 
 ```sh
-docker-compose -f docker-compose-kafka-single-broker up -d 
+docker-compose -f docker-compose-kafka-single-broker.yaml up -d 
 ```
 
 # 3. 다수의 터미널 접속
